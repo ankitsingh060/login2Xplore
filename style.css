@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+
+}
+#empForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    /* align-items: center; */
+    background: beige;
+    border-radius: 19px;
+    width: 50%;
+}
+.container h2{
+margin-left: 15%;
+}
+.form-group{
+    font-size: 28px;
+    display: flex;
+    align-content: center;
+    margin: 13px 10px;
+    padding: 2px 4px;
+    border-radius: 13px;
+    background-color: black;
+    background: none;
+}
+.form-group label{
+
+}
+
+.form-group input{
+    font-size: 26px;
+    border-radius: 14px;
+    margin-left: 102px;
+    opacity: 1.5;
+}
+
+.btn{
+    width: 29%;
+    font-size: 20px;
+    border-radius: 13px;
+    margin-left: 177px;
+    margin-top: 32px;
+}
